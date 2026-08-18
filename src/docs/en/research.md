@@ -1,38 +1,34 @@
 # Research
 
-Our research addresses the safety, resilience, and long-term performance of highway bridge infrastructure. We integrate **large-scale structural testing**, **nonlinear analysis**, and **performance-based design** to investigate systems that can be implemented in practice.
+Our research focuses on sustainable structural systems, bridges that can adapt to changing transportation and climate demands, life-cycle performance, and emerging construction technologies. The group combines structural engineering, **large-scale experiments**, advanced concrete materials, and computational analysis.
 
-## Accelerated bridge construction
+## Structural sustainability
 
-Accelerated Bridge Construction (ABC) uses prefabricated components and streamlined on-site assembly to reduce traffic disruption and improve construction quality. In seismic regions, the connections between precast components must also accommodate large cyclic demands without unacceptable damage.
+We investigate how structural components can be reused in new bridge and building systems. The aim is to extend useful material life, reduce construction waste, and develop practical design approaches for circular construction.
 
-Our work investigates:
+Topics include:
 
-- precast concrete bridge substructures and connection systems;
-- constructability and performance of column-to-foundation and column-to-cap-beam connections;
-- experimental validation of connection behaviour under cyclic loading; and
-- design approaches that balance construction speed, durability, and resilience.
+- design methods for bridges and buildings using reclaimed components;
+- assessment of reused structural elements and connections; and
+- structural performance across multiple service lives.
 
-## Seismic resilience and damage mitigation
+## Adaptive bridge design
 
-Conventional bridge components may protect life safety while sustaining damage that is expensive or slow to repair. We study low-damage concepts intended to limit residual deformation, protect critical regions, and support faster post-earthquake recovery.
+Transportation systems and environmental conditions are changing. We study how bridges can be designed and evaluated for autonomous truck platooning and the effects of a changing climate.
 
 Key topics include:
 
-- post-tensioned and self-centering precast bridge piers;
-- damage-resistant and replaceable structural components;
-- performance-based assessment under earthquake loading; and
-- large-scale testing supported by nonlinear numerical simulation.
+- bridge response to closely spaced autonomous trucks;
+- climate-informed loading and deterioration scenarios; and
+- adaptive design and assessment methods for future operating conditions.
 
-## Advanced materials and durability
+## Bridge life-cycle and risk assessment
 
-High-performance materials can improve the strength, deformation capacity, and durability of bridge components. Our research examines structural applications of ultra-high-performance concrete (UHPC) and other advanced materials, particularly where concentrated demands occur in precast connections.
+We assess how bridge performance evolves under extreme environments and over long service periods. This work supports durability prediction, risk assessment, and better-informed maintenance and design decisions.
 
-We are interested in material-efficient details, damage control, long-term deterioration, and the translation of material-level benefits into system-level performance.
+## 3D concrete printing
 
-## Multi-hazard bridge performance
-
-Bridge infrastructure must respond to more than one hazard over its service life. Our broader work considers the interaction of natural hazards, deterioration, vehicle or vessel impacts, and evolving transportation technologies. Experimental evidence and computational models are used to identify vulnerabilities and support risk-informed decisions.
+We explore the application of 3D printing to structural concrete components. Research topics include printable high-performance concrete, structural behaviour, and the development of design and testing methods for additively manufactured elements.
 
 !!! note "Collaboration"
     We welcome conversations with academic, government, and industry partners working on resilient infrastructure, bridge engineering, structural materials, and large-scale experimentation. [Contact the lab](join-us.md).

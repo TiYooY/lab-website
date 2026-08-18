@@ -1,25 +1,25 @@
 # Join us
 
-We welcome inquiries from motivated students interested in structural and bridge engineering.
+The lab is recruiting fully funded PhD and master's students. Entry terms listed for 2026 are January, May, and September.
 
 ## Research fit
 
-Prospective students may be a strong fit if they are interested in one or more of the following:
+Current research areas include:
 
-- accelerated bridge construction and precast systems;
-- seismic resilience and low-damage design;
-- advanced structural materials, including UHPC;
-- large-scale structural experimentation;
-- nonlinear finite element analysis; or
-- multi-hazard performance and durability of bridges.
+- structural sustainability, including bridge and building design using reused components;
+- adaptive bridge design for autonomous truck platooning and climate change;
+- bridge life-cycle and risk assessment under extreme environments; and
+- structural applications of 3D concrete printing.
+
+Applicants who already hold a master's degree, or intend to pursue one before doctoral study, will receive priority consideration. Relevant backgrounds include prestressed concrete structures, bridge engineering, soil–structure interaction, large-scale structural testing, high-performance concrete, steel structures, and additive manufacturing for structural applications.
 
 ## How to inquire
 
-Email **Dr. Cancan Yang** at [yangcan106@mcmaster.ca](mailto:yangcan106@mcmaster.ca) with a concise introduction and include:
+Email **Dr. Cancan Yang** at [yangc106@mcmaster.ca](mailto:yangc106@mcmaster.ca) with a concise introduction and include:
 
 1. your CV;
 2. academic transcripts;
-3. a short statement describing your research interests and how they connect with the lab; and
+3. a short description of your research background and interests; and
 4. your intended degree and preferred start term.
 
 Admission decisions and formal applications are administered through McMaster University. Review the [Civil Engineering graduate program](https://www.eng.mcmaster.ca/civil/degree-options/graduate-programs/) and [School of Graduate Studies](https://gs.mcmaster.ca/) before applying.
@@ -27,7 +27,7 @@ Admission decisions and formal applications are administered through McMaster Un
 ## Contact
 
 <div class="contact-grid">
-  <article class="contact-card"><h3>Email</h3><p><a href="mailto:cancanyang@mcmaster.ca">cancanyang@mcmaster.ca</a></p></article>
+  <article class="contact-card"><h3>Email</h3><p><a href="mailto:yangc106@mcmaster.ca">yangc106@mcmaster.ca</a></p></article>
   <article class="contact-card"><h3>Office</h3><p>JHE 339<br>McMaster University</p></article>
   <article class="contact-card"><h3>Location</h3><p>1280 Main Street West<br>Hamilton, Ontario, Canada</p></article>
 </div>

@@ -1,25 +1,25 @@
 # 加入我们
 
-我们欢迎对结构与桥梁工程感兴趣、具有研究热情的学生联系课题组。
+课题组招收全额资助博士与硕士研究生，2026 年入学时间包括 1 月（冬季）、5 月（春夏季）和 9 月（秋季）。
 
 ## 研究方向匹配
 
-如果你对以下一个或多个方向感兴趣，可能与课题组具有良好的研究匹配度：
+目前的主要研究方向包括：
 
-- 加速桥梁施工与预制结构体系；
-- 抗震韧性与低损伤设计；
-- UHPC 等先进结构材料；
-- 大型结构试验；
-- 非线性有限元分析；
-- 桥梁多灾害性能与耐久性。
+- 结构可持续性，包括基于构件再利用的桥梁与房屋结构设计；
+- 面向自动驾驶卡车编队与气候变化的桥梁适应性设计；
+- 极端环境下的桥梁全寿命与风险评估；
+- 3D 混凝土打印技术在结构构件中的应用。
+
+已获得硕士学位或有意攻读硕士学位者优先。具有预应力混凝土结构、桥梁工程、土–结构相互作用、大型结构试验、高性能混凝土、钢结构或增材制造结构应用等研究背景者优先考虑。
 
 ## 联系方式
 
-请通过 [yangcan106@mcmaster.ca](mailto:yangc106@mcmaster.ca) 联系 **Cancan Yang 教授**，简要介绍个人情况，并建议附上：
+请通过 [yangc106@mcmaster.ca](mailto:yangc106@mcmaster.ca) 联系 **Cancan Yang 教授**，简要介绍个人情况，并附上：
 
 1. 个人简历；
 2. 成绩单；
-3. 研究兴趣及其与课题组方向的联系；
+3. 研究背景与兴趣简介；
 4. 拟申请学位和期望入学时间。
 
 正式申请及录取由麦克马斯特大学统一管理。申请前请查阅[土木工程研究生项目](https://www.eng.mcmaster.ca/civil/degree-options/graduate-programs/)和[研究生院](https://gs.mcmaster.ca/)的最新要求。
@@ -27,7 +27,7 @@
 ## 联系信息
 
 <div class="contact-grid">
-  <article class="contact-card"><h3>电子邮件</h3><p><a href="mailto:cancanyang@mcmaster.ca">cancanyang@mcmaster.ca</a></p></article>
+  <article class="contact-card"><h3>电子邮件</h3><p><a href="mailto:yangc106@mcmaster.ca">yangc106@mcmaster.ca</a></p></article>
   <article class="contact-card"><h3>办公室</h3><p>JHE 339<br>McMaster University</p></article>
   <article class="contact-card"><h3>地址</h3><p>1280 Main Street West<br>Hamilton, Ontario, Canada</p></article>
 </div>

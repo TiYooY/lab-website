@@ -10,6 +10,3 @@ The list below highlights representative work related to the lab's research them
   <li>W. Fan, Y. Sun, C. Yang, W. Sun, and Y. He, “Assessing the response and fragility of concrete bridges under multi-hazard effect of vessel impact and corrosion,” <em>Engineering Structures</em>, vol. 225, 111279, 2020. <a href="https://doi.org/10.1016/j.engstruct.2020.111279">DOI</a></li>
   <li>C. Yang, L. Zhang, Z. Zhang, X. Cao, I. Khan, K. Deng, and T. Xu, “Effective stress-strain relationship for grouted sleeve connection: Modeling and experimental verification,” <em>Engineering Structures</em>, vol. 210, 110300, 2020. <a href="https://doi.org/10.1016/j.engstruct.2020.110300">DOI</a></li>
 </ol>
-
-!!! note "Maintaining this page"
-    A verified BibTeX or ORCID export can be used to generate a complete publication catalogue in a later update. The former page displayed non-functional placeholder commands because its bibliography file was empty.

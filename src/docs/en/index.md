@@ -1,37 +1,37 @@
 <section class="lab-hero">
   <p class="lab-hero__eyebrow">McMaster University · Civil Engineering</p>
   <h1>Smart & Resilient Structures Lab</h1>
-  <p class="lab-hero__lead">We develop safer, more durable highway bridges through accelerated construction, low-damage seismic design, advanced materials, and large-scale testing.</p>
+  <p class="lab-hero__lead">We study sustainable and adaptive structural systems, bridge life-cycle performance, and emerging construction technologies.</p>
   <div class="lab-actions">
     <a class="lab-button lab-button--primary" href="research/">Explore our research</a>
     <a class="lab-button" href="join-us/">Join the lab</a>
   </div>
 </section>
 
-## Engineering infrastructure for a changing world
+## Research for the next generation of infrastructure
 
-Led by **Dr. Cancan Yang** in McMaster University's Department of Civil Engineering, our group studies how bridge systems can be built faster, sustain less damage, and remain functional under earthquakes, impacts, deterioration, and emerging transportation demands.
+Led by **Dr. Cancan Yang** in McMaster University's Department of Civil Engineering, our group develops practical approaches to structural sustainability, adaptive bridge design, life-cycle risk assessment, and 3D concrete printing.
 
-We combine large-scale experiments with nonlinear computational analysis to turn new structural concepts and materials into practical infrastructure solutions.
+Our work combines structural engineering, large-scale experiments, advanced concrete materials, and computational analysis.
 
 <div class="lab-card-grid">
   <article class="lab-card">
     <span class="lab-card__number">01</span>
-    <h3>Accelerated bridge construction</h3>
-    <p>Precast bridge systems and connection details that reduce on-site construction time while meeting demanding performance requirements.</p>
-    <p><a href="research/#accelerated-bridge-construction">Learn more →</a></p>
+    <h3>Structural sustainability</h3>
+    <p>Bridge and building systems designed around component reuse and longer, more resource-efficient service lives.</p>
+    <p><a href="research/#structural-sustainability">Learn more →</a></p>
   </article>
   <article class="lab-card">
     <span class="lab-card__number">02</span>
-    <h3>Seismic resilience</h3>
-    <p>Low-damage and self-centering systems designed to control damage and accelerate recovery after earthquakes.</p>
-    <p><a href="research/#seismic-resilience-and-damage-mitigation">Learn more →</a></p>
+    <h3>Adaptive bridge design</h3>
+    <p>Bridge systems that respond to autonomous truck platooning and changing climate conditions.</p>
+    <p><a href="research/#adaptive-bridge-design">Learn more →</a></p>
   </article>
   <article class="lab-card">
     <span class="lab-card__number">03</span>
-    <h3>Advanced materials</h3>
-    <p>Structural applications of UHPC and other high-performance materials for durable, resilient bridge components.</p>
-    <p><a href="research/#advanced-materials-and-durability">Learn more →</a></p>
+    <h3>Life-cycle performance</h3>
+    <p>Assessment of bridge deterioration, durability, and risk under extreme environments.</p>
+    <p><a href="research/#bridge-life-cycle-and-risk-assessment">Learn more →</a></p>
   </article>
 </div>
 
@@ -51,5 +51,5 @@ We combine large-scale experiments with nonlinear computational analysis to turn
 
 [View all news](news/index.md) · [Meet the team](team/current-members.md) · [Browse publications](publications.md)
 
-!!! info "Prospective students"
-    McMaster Engineering currently lists Dr. Yang as accepting graduate students. Visit [Join us](join-us.md) for research areas, application guidance, and contact details.
+!!! info "Graduate opportunities"
+    Fully funded PhD and master's positions are available. Visit [Join us](join-us.md) for research areas, preferred backgrounds, and contact details.

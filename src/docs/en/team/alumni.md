@@ -14,6 +14,4 @@
   <article class="person-card"><div class="person-avatar">GS</div><h3>Ghazal Saed</h3><p class="person-role">Former postdoctoral researcher</p></article>
 </div>
 
-Degree details, departure years, current positions, biographies, and photos will be added after they are confirmed.
-
-Please contact [cancanyang@mcmaster.ca](mailto:cancanyang@mcmaster.ca) with alumni updates.
+Please contact [yangc106@mcmaster.ca](mailto:yangc106@mcmaster.ca) with alumni updates.

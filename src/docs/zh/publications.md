@@ -10,6 +10,3 @@
   <li>W. Fan, Y. Sun, C. Yang, W. Sun, and Y. He, “Assessing the response and fragility of concrete bridges under multi-hazard effect of vessel impact and corrosion,” <em>Engineering Structures</em>, vol. 225, 111279, 2020. <a href="https://doi.org/10.1016/j.engstruct.2020.111279">DOI</a></li>
   <li>C. Yang, L. Zhang, Z. Zhang, X. Cao, I. Khan, K. Deng, and T. Xu, “Effective stress-strain relationship for grouted sleeve connection: Modeling and experimental verification,” <em>Engineering Structures</em>, vol. 210, 110300, 2020. <a href="https://doi.org/10.1016/j.engstruct.2020.110300">DOI</a></li>
 </ol>
-
-!!! note "论文列表维护方式"
-    后续可以使用经过核对的 BibTeX 或 ORCID 导出数据生成完整目录。旧页面中的论文命令没有生效，是因为对应的参考文献数据库为空。
