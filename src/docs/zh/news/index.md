@@ -1,37 +1,24 @@
 # 新闻动态
 
+在这里了解智能与韧性结构实验室的科研成果、团队活动、公共交流与日常瞬间。
+
+<div class="lab-card-grid news-categories">
+  <article class="lab-card"><span class="lab-card__number">RESEARCH</span><h3>科研进展</h3><p>论文发表、科研项目、结构试验、会议报告与获奖信息。</p><p><a href="research/">查看科研动态 →</a></p></article>
+  <article class="lab-card"><span class="lab-card__number">LAB LIFE</span><h3>实验室日常</h3><p>团队活动、实验室参观、庆祝聚会、现场工作和幕后记录。</p><p><a href="lab-life/">走进实验室 →</a></p></article>
+  <article class="lab-card"><span class="lab-card__number">OUTREACH</span><h3>媒体与交流</h3><p>媒体采访、公共评论、特邀报告与社会交流活动。</p><p><a href="media/">查看媒体报道 →</a></p></article>
+</div>
+
 ## 最新动态
 
-??? info "2025年1月 - 欢迎来到我们的研究组"
-    我们很高兴地宣布我们新的研究组网站正式上线。我们的团队一直在努力创建一个全面的平台，展示我们的研究活动、发表论文和团队成员。
-    
-    这个网站将作为以下内容的中心：
-    - 最新研究动态
-    - 论文发表公告
-    - 团队成员亮点
-    - 合作机会
-    
-    请关注我们在土木工程领域前沿研究的定期更新！
+<div class="news-item">
+  <span class="news-date">2026 年 8 月 15 日</span>
+  <h3>欢迎 Chushi Cui 和 Junhong Qiao 加入课题组</h3>
+  <p>课题组成员前往 Yang 教授家中聚餐，在轻松愉快的氛围中欢迎两位新成员。<a href="posts/2026-08-15-welcome-new-members/">阅读动态 →</a></p>
+</div>
 
-??? info "2024年12月 - 可持续工程新研究项目"
-    我们的团队已经启动了一个专注于可持续土木工程解决方案的激动人心的新研究项目。这个多年期项目旨在开发创新方法：
-    
-    - 绿色建筑材料
-    - 节能结构设计
-    - 环境影响减少
-    - 智慧城市基础设施
-    
-    该项目由[资助机构]资助，涉及与多个行业合作伙伴的合作。
+<div class="news-item"><span class="news-date">2024 年 3 月 29 日</span><h3>类似巴尔的摩的桥梁碰撞事故会在本地发生吗？</h3><p>Francis Scott Key Bridge 坍塌事故发生后，麦克马斯特大学报道了 Cancan Yang 教授等当地结构工程专家对桥梁易损性和安全问题的分析。<a href="https://www.eng.mcmaster.ca/news/in-the-media-local-structural-engineers-debate-whether-the-baltimore-bridge-collapse-could-happen-here/">查看报道 →</a></p></div>
 
-??? info "2024年11月 - 会议报告"
-    杨教授在国际土木工程会议上展示了我们最新的研究成果。报告内容包括：
-    
-    - 新颖的结构分析方法
-    - 近期项目案例研究
-    - 未来研究方向
-    
-    报告反响热烈，与同行研究者进行了有趣的讨论。
+<div class="news-item"><span class="news-date">2023 年 2 月 10 日</span><h3>土木工程教师分享地震工程观点</h3><p>Cancan Yang 教授与 Lydell Wiebe 教授就土耳其和叙利亚地震以及震后恢复面临的挑战接受 CTV Toronto 与 CHCH 采访。<a href="https://www.eng.mcmaster.ca/civil/news/in-the-media-civil-engineering-associate-professors-share-insights-on-earthquakes/">阅读麦克马斯特大学报道 →</a></p></div>
 
----
-
-*如需了解更多研究活动信息，请访问我们的[研究方向](../research.md)页面。*
+!!! tip "添加实验室动态"
+    可以将照片和文字草稿放入本地资料收集目录。每条内容可包括日期、标题、简短摘要、封面图、照片组和可选外部链接。

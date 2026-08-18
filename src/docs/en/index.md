@@ -1,66 +1,55 @@
-# Smart and Resilient Structures Lab
+<section class="lab-hero">
+  <p class="lab-hero__eyebrow">McMaster University · Civil Engineering</p>
+  <h1>Smart & Resilient Structures Lab</h1>
+  <p class="lab-hero__lead">We develop safer, more durable highway bridges through accelerated construction, low-damage seismic design, advanced materials, and large-scale testing.</p>
+  <div class="lab-actions">
+    <a class="lab-button lab-button--primary" href="research/">Explore our research</a>
+    <a class="lab-button" href="join-us/">Join the lab</a>
+  </div>
+</section>
 
----
-# A powerful one-liner summarizing the lab's core mission
----
+## Engineering infrastructure for a changing world
 
-<figure>
-  <img src="assets/Test.svg" width="100%" alt="Lab Hero Image">
-</figure>
+Led by **Dr. Cancan Yang** in McMaster University's Department of Civil Engineering, our group studies how bridge systems can be built faster, sustain less damage, and remain functional under earthquakes, impacts, deterioration, and emerging transportation demands.
 
-## 关于我们 (About Us)
-欢迎来到麦克马斯特大学土木工程系的智能与韧性结构实验室。本实验室由Cancan Yang副教授领导，专注于解决公路桥梁工程在前沿材料、抗震韧性及加速施工技术等领域面临的挑战。我们的目标是推动更安全、更耐久的基础设施建设，为社会发展贡献力量。 **[了解更多关于我们的团队 ->](team/current-members.md)**
+We combine large-scale experiments with nonlinear computational analysis to turn new structural concepts and materials into practical infrastructure solutions.
 
----
-
-## 研究方向 (Research Focus)
-
-我们的研究主要集中在以下几个核心领域，旨在构建更安全、更智能、更耐久的下一代基础设施。
-
-<div class="grid cards" markdown>
-
--   __加速桥梁施工 (Accelerated Bridge Construction)__
-
-    ---
-    
-    开发新型预制混凝土桥梁系统，特别是在地震多发区域的应用，以实现快速、高效的建设。
-    
-    **[深入了解 ->](research.md#accelerated-bridge-construction)**
-
-
--   __结构抗震与损伤控制 (Seismic Resilience & Damage Mitigation)__
-
-    ---
-    
-    通过大规模结构实验和非线性分析，研究和应用创新的低损伤设计，提升结构的地震韧性。
-    
-    **[查看详情 ->](research.md#seismic-resilience)**
-
-
--   __新型材料应用 (Application of Novel Materials)__
-
-    ---
-    
-    探索超高性能混凝土(UHPC)等先进材料在桥梁结构中的应用，以提升性能和耐久性。
-    
-    **[相关项目 ->](research.md#novel-materials)**
-
+<div class="lab-card-grid">
+  <article class="lab-card">
+    <span class="lab-card__number">01</span>
+    <h3>Accelerated bridge construction</h3>
+    <p>Precast bridge systems and connection details that reduce on-site construction time while meeting demanding performance requirements.</p>
+    <p><a href="research/#accelerated-bridge-construction">Learn more →</a></p>
+  </article>
+  <article class="lab-card">
+    <span class="lab-card__number">02</span>
+    <h3>Seismic resilience</h3>
+    <p>Low-damage and self-centering systems designed to control damage and accelerate recovery after earthquakes.</p>
+    <p><a href="research/#seismic-resilience-and-damage-mitigation">Learn more →</a></p>
+  </article>
+  <article class="lab-card">
+    <span class="lab-card__number">03</span>
+    <h3>Advanced materials</h3>
+    <p>Structural applications of UHPC and other high-performance materials for durable, resilient bridge components.</p>
+    <p><a href="research/#advanced-materials-and-durability">Learn more →</a></p>
+  </article>
 </div>
 
----
+## Latest updates
 
-## 最新动态 (Latest News)
+<div class="news-item">
+  <span class="news-date">March 2024</span>
+  <h3>Bridge safety in the media</h3>
+  <p>Dr. Yang discussed bridge vulnerability and structural safety following the Baltimore bridge collapse. <a href="https://www.eng.mcmaster.ca/news/in-the-media-local-structural-engineers-debate-whether-the-baltimore-bridge-collapse-could-happen-here/">Read the McMaster Engineering feature →</a></p>
+</div>
 
-* **2023年2月** - Cancan Yang 教授就土耳其和叙利亚地震接受 CTV News 和 CHCH News 采访。
-* **合作项目** - 实验室与Horizon Legacy公司合作，开拓现场机器人在中高层建筑施工中的应用。
-* **[日期]** - 在此处添加另一条新闻，例如：祝贺 [学生姓名] 的论文被 [期刊名] 接收！
-* ... **[查看所有新闻 ->](news/index.md)**
+<div class="news-item">
+  <span class="news-date">February 2023</span>
+  <h3>Earthquake engineering expertise</h3>
+  <p>McMaster Civil Engineering faculty shared insights on the earthquakes in Türkiye and Syria with CTV and CHCH. <a href="https://www.eng.mcmaster.ca/civil/news/in-the-media-civil-engineering-associate-professors-share-insights-on-earthquakes/">Read the story →</a></p>
+</div>
 
----
+[View all news](news/index.md) · [Meet the team](team/current-members.md) · [Browse publications](publications.md)
 
-## 加入我们 (Join Us)
-
-我们一直在寻找对解决土木工程领域重大挑战充满热情的优秀研究生。如果您对我们的研究方向感兴趣，并希望在一个充满活力的环境中学习和成长，请点击下方链接了解更多关于申请的信息。
-
-[**了解申请详情与开放职位**](join-us.md)
-
+!!! info "Prospective students"
+    McMaster Engineering currently lists Dr. Yang as accepting graduate students. Visit [Join us](join-us.md) for research areas, application guidance, and contact details.

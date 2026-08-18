@@ -1,48 +1,38 @@
-# 研究方向 (Research Focus)
+# Research
 
-本实验室致力于通过理论、实验与计算相结合的方法，解决土木工程领域的前沿挑战，旨在构建更安全、更智能、更耐久的下一代基础设施。以下是我们当前的主要研究方向和项目详情。
+Our research addresses the safety, resilience, and long-term performance of highway bridge infrastructure. We integrate **large-scale structural testing**, **nonlinear analysis**, and **performance-based design** to investigate systems that can be implemented in practice.
 
----
-## Accelerated Bridge Construction { #accelerated-bridge-construction }
+## Accelerated bridge construction
 
-在这里，您可以详细介绍“加速桥梁施工”这个大方向。可以写3-5段话，介绍这个领域的背景、当前的挑战、我们实验室所采用的研究方法以及长远目标。段落之间请使用空行隔开。
+Accelerated Bridge Construction (ABC) uses prefabricated components and streamlined on-site assembly to reduce traffic disruption and improve construction quality. In seismic regions, the connections between precast components must also accommodate large cyclic demands without unacceptable damage.
 
-您还可以使用三级标题来介绍该方向下的具体项目。
+Our work investigates:
 
-### 具体项目一：新型预制桥面板连接技术研究
-这是对此具体项目的详细描述。
+- precast concrete bridge substructures and connection systems;
+- constructability and performance of column-to-foundation and column-to-cap-beam connections;
+- experimental validation of connection behaviour under cyclic loading; and
+- design approaches that balance construction speed, durability, and resilience.
 
-* **研究目标**:
-    * 开发一种新型、可快速施工的预制节点。
-    * 评估该节点在地震作用下的损伤模式和性能。
+## Seismic resilience and damage mitigation
 
-* **采用方法**:
-    * 进行足尺模型的拟静力试验。
-    * 建立高精度的非线性有限元模型进行参数分析。
+Conventional bridge components may protect life safety while sustaining damage that is expensive or slow to repair. We study low-damage concepts intended to limit residual deformation, protect critical regions, and support faster post-earthquake recovery.
 
-* **预期成果**:
-    * 为工程设计提供可靠的理论依据和构造建议。
+Key topics include:
 
-![在这里放一张项目相关的图片或图表]()
+- post-tensioned and self-centering precast bridge piers;
+- damage-resistant and replaceable structural components;
+- performance-based assessment under earthquake loading; and
+- large-scale testing supported by nonlinear numerical simulation.
 
----
-## Seismic Resilience and Damage Mitigation { #seismic-resilience }
+## Advanced materials and durability
 
-在这里详细介绍“结构抗震与损伤控制”这个大方向。介绍实验室在提升结构抗震性能、实现震后快速恢复等方面的研究工作。
+High-performance materials can improve the strength, deformation capacity, and durability of bridge components. Our research examines structural applications of ultra-high-performance concrete (UHPC) and other advanced materials, particularly where concentrated demands occur in precast connections.
 
-### 具体项目：自复位摇摆桥墩的抗震性能研究
-这是对自复位桥墩项目的详细描述。
-#### [例如：研究该新型结构体系的滞回性能和损伤机理...]
-#### [例如：在振动台上进行测试，并与传统设计进行对比...]
+We are interested in material-efficient details, damage control, long-term deterioration, and the translation of material-level benefits into system-level performance.
 
-![自复位桥墩实验照片]()
+## Multi-hazard bridge performance
 
----
-## Application of Novel Materials { #novel-materials }
+Bridge infrastructure must respond to more than one hazard over its service life. Our broader work considers the interaction of natural hazards, deterioration, vehicle or vessel impacts, and evolving transportation technologies. Experimental evidence and computational models are used to identify vulnerabilities and support risk-informed decisions.
 
-在这里详细介绍“新型材料应用”这个大方向。比如实验室如何利用超高性能混凝土(UHPC)、高强度钢筋、FRP等材料来提升结构性能。
-
-### 具体项目：UHPC在桥梁修复加固中的应用
-这是对UHPC应用项目的详细描述...
-
----
+!!! note "Collaboration"
+    We welcome conversations with academic, government, and industry partners working on resilient infrastructure, bridge engineering, structural materials, and large-scale experimentation. [Contact the lab](join-us.md).

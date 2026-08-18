@@ -1,66 +1,32 @@
-# Smart and Resilient Structures Lab
+<section class="lab-hero">
+  <p class="lab-hero__eyebrow">麦克马斯特大学 · 土木工程系</p>
+  <h1>智能与韧性结构实验室</h1>
+  <p class="lab-hero__lead">通过加速桥梁施工、低损伤抗震设计、先进结构材料与大型试验，推动更安全、更耐久的公路桥梁建设。</p>
+  <div class="lab-actions">
+    <a class="lab-button lab-button--primary" href="research/">了解研究方向</a>
+    <a class="lab-button" href="join-us/">加入实验室</a>
+  </div>
+</section>
 
----
-# A powerful one-liner summarizing the lab's core mission
----
+## 面向未来的基础设施研究
 
-<figure>
-  <img src="assets/Test.svg" width="100%" alt="Lab Hero Image">
-</figure>
+本实验室由麦克马斯特大学土木工程系 **Cancan Yang 副教授**领导，致力于研究如何更快速地建造桥梁、降低灾害引起的结构损伤，并提升基础设施在地震、碰撞、材料劣化及新型交通需求下的服役性能。
 
-## 关于我们 (About Us)
-欢迎来到麦克马斯特大学土木工程系的智能与韧性结构实验室。本实验室由Cancan Yang副教授领导，专注于解决公路桥梁工程在前沿材料、抗震韧性及加速施工技术等领域面临的挑战。我们的目标是推动更安全、更耐久的基础设施建设，为社会发展贡献力量。 **[了解更多关于我们的团队 ->](team/current-members.md)**
+我们结合大型结构试验与非线性计算分析，将新型结构体系和材料转化为具有工程应用潜力的基础设施解决方案。
 
----
-
-## 研究方向 (Research Focus)
-
-我们的研究主要集中在以下几个核心领域，旨在构建更安全、更智能、更耐久的下一代基础设施。
-
-<div class="grid cards" markdown>
-
--   __加速桥梁施工 (Accelerated Bridge Construction)__
-
-    ---
-    
-    开发新型预制混凝土桥梁系统，特别是在地震多发区域的应用，以实现快速、高效的建设。
-    
-    **[深入了解 ->](research.md#accelerated-bridge-construction)**
-
-
--   __结构抗震与损伤控制 (Seismic Resilience & Damage Mitigation)__
-
-    ---
-    
-    通过大规模结构实验和非线性分析，研究和应用创新的低损伤设计，提升结构的地震韧性。
-    
-    **[查看详情 ->](research.md#seismic-resilience)**
-
-
--   __新型材料应用 (Application of Novel Materials)__
-
-    ---
-    
-    探索超高性能混凝土(UHPC)等先进材料在桥梁结构中的应用，以提升性能和耐久性。
-    
-    **[相关项目 ->](research.md#novel-materials)**
-
+<div class="lab-card-grid">
+  <article class="lab-card"><span class="lab-card__number">01</span><h3>加速桥梁施工</h3><p>研究预制桥梁体系和连接构造，在缩短现场施工时间的同时满足严格的结构性能要求。</p><p><a href="research/#_1">了解更多 →</a></p></article>
+  <article class="lab-card"><span class="lab-card__number">02</span><h3>抗震韧性</h3><p>开发低损伤和自复位结构体系，控制地震损伤并提升震后恢复能力。</p><p><a href="research/#_2">了解更多 →</a></p></article>
+  <article class="lab-card"><span class="lab-card__number">03</span><h3>先进结构材料</h3><p>探索 UHPC 等高性能材料在耐久、韧性桥梁构件和连接中的应用。</p><p><a href="research/#_3">了解更多 →</a></p></article>
 </div>
 
----
+## 最新动态
 
-## 最新动态 (Latest News)
+<div class="news-item"><span class="news-date">2024 年 3 月</span><h3>桥梁安全媒体报道</h3><p>巴尔的摩桥梁坍塌事故发生后，Yang 教授就桥梁易损性与结构安全问题接受采访。<a href="https://www.eng.mcmaster.ca/news/in-the-media-local-structural-engineers-debate-whether-the-baltimore-bridge-collapse-could-happen-here/">查看麦克马斯特大学报道 →</a></p></div>
 
-* **2023年2月** - Cancan Yang 教授就土耳其和叙利亚地震接受 CTV News 和 CHCH News 采访。
-* **合作项目** - 实验室与Horizon Legacy公司合作，开拓现场机器人在中高层建筑施工中的应用。
-* **[日期]** - 在此处添加另一条新闻，例如：祝贺 [学生姓名] 的论文被 [期刊名] 接收！
-* ... **[查看所有新闻 ->](news/index.md)**
+<div class="news-item"><span class="news-date">2023 年 2 月</span><h3>分享地震工程专业观点</h3><p>麦克马斯特大学土木工程系教师就土耳其和叙利亚地震及震后恢复挑战接受 CTV 与 CHCH 采访。<a href="https://www.eng.mcmaster.ca/civil/news/in-the-media-civil-engineering-associate-professors-share-insights-on-earthquakes/">阅读报道 →</a></p></div>
 
----
+[查看全部新闻](news/index.md) · [认识团队](team/current-members.md) · [浏览论文](publications.md)
 
-## 加入我们 (Join Us)
-
-我们一直在寻找对解决土木工程领域重大挑战充满热情的优秀研究生。如果您对我们的研究方向感兴趣，并希望在一个充满活力的环境中学习和成长，请点击下方链接了解更多关于申请的信息。
-
-[**了解申请详情与开放职位**](join-us.md)
-
+!!! info "招生信息"
+    麦克马斯特大学工程学院目前标注 Yang 教授正在招收研究生。研究方向、申请建议和联系方式请见[加入我们](join-us.md)页面。

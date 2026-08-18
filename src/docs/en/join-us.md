@@ -1,19 +1,33 @@
-We are always looking for talented PhD, master's, and undergraduate students who are passionate about structural engineering to join our team. We offer world-class experimental equipment, close industry collaboration, and a vibrant academic atmosphere.
+# Join us
 
-If you are interested in our research areas and have a solid background in structural mechanics, finite element analysis, or experimental research, please contact us by email. **Prof.Cancan Yang** ([yangc106@mcmaster.ca](mailto:yangc106@mcmaster.ca)) Please attach your resume, transcript, and personal statement.
+We welcome inquiries from motivated students interested in structural and bridge engineering.
 
----
+## Research fit
 
-## Follow Us
+Prospective students may be a strong fit if they are interested in one or more of the following:
 
-Stay connected and get a glimpse into our daily work, achievements, and lab culture by following us on our social and academic platforms.
+- accelerated bridge construction and precast systems;
+- seismic resilience and low-damage design;
+- advanced structural materials, including UHPC;
+- large-scale structural experimentation;
+- nonlinear finite element analysis; or
+- multi-hazard performance and durability of bridges.
 
-- [:fontawesome-brands-github: &nbsp; **GitHub** - See our open-source projects](https://github.com/TiYooY)
-- [:fontawesome-brands-linkedin: &nbsp; **LinkedIn** - Connect professionally](https://www.linkedin.com/)
-- [:fontawesome-solid-graduation-cap: &nbsp; **Google Scholar** - View our publications](https://scholar.google.com/citations?user=Kjg5fzcAAAAJ&hl=en)
-- [:material-account-circle: &nbsp; **ORCID** - Researcher profiles](https://orcid.org)
-- [:fontawesome-solid-users: &nbsp; **ResearchGate** - Academic network](https://researchgate.net)
-- [:fontawesome-regular-envelope: &nbsp; **Email** - Contact us directly](mailto:yangc106@mcmaster.ca)
-- [:fontawesome-brands-twitter: &nbsp; **Twitter** - Latest updates](https://twitter.com/)
+## How to inquire
 
----
+Email **Dr. Cancan Yang** at [yangcan106@mcmaster.ca](mailto:yangcan106@mcmaster.ca) with a concise introduction and include:
+
+1. your CV;
+2. academic transcripts;
+3. a short statement describing your research interests and how they connect with the lab; and
+4. your intended degree and preferred start term.
+
+Admission decisions and formal applications are administered through McMaster University. Review the [Civil Engineering graduate program](https://www.eng.mcmaster.ca/civil/degree-options/graduate-programs/) and [School of Graduate Studies](https://gs.mcmaster.ca/) before applying.
+
+## Contact
+
+<div class="contact-grid">
+  <article class="contact-card"><h3>Email</h3><p><a href="mailto:cancanyang@mcmaster.ca">cancanyang@mcmaster.ca</a></p></article>
+  <article class="contact-card"><h3>Office</h3><p>JHE 339<br>McMaster University</p></article>
+  <article class="contact-card"><h3>Location</h3><p>1280 Main Street West<br>Hamilton, Ontario, Canada</p></article>
+</div>

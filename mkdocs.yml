@@ -1,8 +1,11 @@
-# 网站信息
-site_name: Yang's Research Group
-site_author: Prof. Yang
-site_description: 欢迎来到我们的课题组网站。我们专注于Civil engineering的研究。
+# Site information
+site_name: Smart & Resilient Structures Lab
+site_author: Dr. Cancan Yang
+site_description: Research on resilient highway bridges, accelerated bridge construction, seismic engineering, and advanced structural materials at McMaster University.
 site_url: https://tiyooy.github.io/my-lab-site/
+repo_url: https://github.com/TiYooY/my-lab-site
+repo_name: TiYooY/my-lab-site
+copyright: Copyright &copy; Smart & Resilient Structures Lab, McMaster University
 
 # 文档源目录
 docs_dir: src/docs
@@ -10,20 +13,38 @@ docs_dir: src/docs
 # 主题配置
 theme:
   name: material
+  language: en
   features:
     - navigation.tabs
-    - header.autohide
     - navigation.sticky
     - navigation.top
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+    - search.share
   palette:
-    primary: 'indigo'
-    accent: 'blue'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 extra_css:
   - assets/css/custom.css
   
 # Markdown扩展
 markdown_extensions:
+  - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
@@ -40,7 +61,11 @@ nav:
     - Current Members: team/current-members.md
     - Alumni: team/alumni.md
   - Publications: publications.md
-  - News: news/index.md
+  - News:
+    - All Updates: news/index.md
+    - Research Highlights: news/research.md
+    - Lab Life: news/lab-life.md
+    - Media & Outreach: news/media.md
   - Join us: join-us.md
 
 # 插件配置
@@ -64,4 +89,20 @@ plugins:
             Alumni: 毕业成员
             Publications: 发表论文
             News: 新闻动态
+            All Updates: 全部动态
+            Research Highlights: 科研进展
+            Lab Life: 实验室日常
+            Media & Outreach: 媒体与交流
             Join us: 加入我们
+
+extra:
+  social:
+    - icon: fontawesome/solid/graduation-cap
+      link: https://experts.mcmaster.ca/people/yangc106
+      name: McMaster Experts
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0001-8596-2265
+      name: ORCID
+    - icon: fontawesome/solid/envelope
+      link: mailto:cancanyang@mcmaster.ca
+      name: Email the lab

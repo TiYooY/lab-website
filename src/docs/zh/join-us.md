@@ -1,21 +1,33 @@
+# 加入我们
 
-我们一直在寻找对结构工程充满热情的优秀博士生、硕士生和本科生加入我们的团队。我们提供世界一流的实验设备、紧密的行业合作以及充满活力的学术氛围。
+我们欢迎对结构与桥梁工程感兴趣、具有研究热情的学生联系课题组。
 
-杨教授的课题组热忱欢迎对以下两个研究方向感兴趣的博士和硕士申请者加入：（1）通过构件再利用实现结构可持续性；（2）面向自动驾驶卡车编队与气候变化的桥梁未来适应性研究。
-如果您对我们的研究方向感兴趣，并具备扎实的结构力学、有限元分析或实验研究背景，欢迎通过邮件联系 **Cancan Yang** 教授 ([yangc106@mcmaster.ca](mailto:yangc106@mcmaster.ca)) 并附上您的简历、成绩单和个人陈述。
+## 研究方向匹配
 
----
+如果你对以下一个或多个方向感兴趣，可能与课题组具有良好的研究匹配度：
 
-## 关注我们
+- 加速桥梁施工与预制结构体系；
+- 抗震韧性与低损伤设计；
+- UHPC 等先进结构材料；
+- 大型结构试验；
+- 非线性有限元分析；
+- 桥梁多灾害性能与耐久性。
 
-关注我们的社交及学术平台，与我们保持联系，一窥我们的日常工作、成就及实验室文化。
+## 联系方式
 
-- [:fontawesome-brands-github: &nbsp; **GitHub** - See our open-source projects](https://github.com/TiYooY)
-- [:fontawesome-brands-linkedin: &nbsp; **LinkedIn** - Connect professionally](https://www.linkedin.com/)
-- [:fontawesome-solid-graduation-cap: &nbsp; **Google Scholar** - View our publications](https://scholar.google.com/citations?user=Kjg5fzcAAAAJ&hl=en)
-- [:material-account-circle: &nbsp; **ORCID** - Researcher profiles](https://orcid.org)
-- [:fontawesome-solid-users: &nbsp; **ResearchGate** - Academic network](https://researchgate.net)
-- [:fontawesome-regular-envelope: &nbsp; **Email** - Contact us directly](mailto:yangc106@mcmaster.ca)
-- [:fontawesome-brands-twitter: &nbsp; **Twitter** - Latest updates](https://twitter.com/)
+请通过 [yangcan106@mcmaster.ca](mailto:yangc106@mcmaster.ca) 联系 **Cancan Yang 教授**，简要介绍个人情况，并建议附上：
 
----
+1. 个人简历；
+2. 成绩单；
+3. 研究兴趣及其与课题组方向的联系；
+4. 拟申请学位和期望入学时间。
+
+正式申请及录取由麦克马斯特大学统一管理。申请前请查阅[土木工程研究生项目](https://www.eng.mcmaster.ca/civil/degree-options/graduate-programs/)和[研究生院](https://gs.mcmaster.ca/)的最新要求。
+
+## 联系信息
+
+<div class="contact-grid">
+  <article class="contact-card"><h3>电子邮件</h3><p><a href="mailto:cancanyang@mcmaster.ca">cancanyang@mcmaster.ca</a></p></article>
+  <article class="contact-card"><h3>办公室</h3><p>JHE 339<br>McMaster University</p></article>
+  <article class="contact-card"><h3>地址</h3><p>1280 Main Street West<br>Hamilton, Ontario, Canada</p></article>
+</div>
