@@ -4,18 +4,20 @@
 
 ## About
 
-*Biography to be added.*
+PhD Student
 
 ## Research interests
 
-*Research interests to be added.*
+- Steel bridge engineering
+- Structural deterioration and durability
+- Climate change impacts on infrastructure
+- Structural reliability and resilience
 
 ## Education
+ 
+-  McMaster University, 2026–Present
 
-*Education history to be added.*
 
-## Projects and publications
 
-*Selected projects and publications to be added.*
 
 [← Back to current members](../current-members.md)
