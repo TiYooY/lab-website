@@ -2,9 +2,9 @@
 site_name: Smart & Resilient Structures Lab
 site_author: Dr. Cancan Yang
 site_description: Research on resilient highway bridges, accelerated bridge construction, seismic engineering, and advanced structural materials at McMaster University.
-site_url: https://tiyooy.github.io/my-lab-site/
-repo_url: https://github.com/TiYooY/my-lab-site
-repo_name: TiYooY/my-lab-site
+site_url: https://tiyooy.github.io/lab-website/
+repo_url: https://github.com/TiYooY/lab-website
+repo_name: TiYooY/lab-website
 copyright: Copyright &copy; Smart & Resilient Structures Lab, McMaster University
 
 # 文档源目录
