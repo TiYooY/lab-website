@@ -1,6 +1,6 @@
 # Zhiyuan Zheng
 
-<div class="member-profile-header"><div class="member-profile-avatar">ZZ</div><div><p class="person-role">即将入学硕士生</p><p class="person-meta">2026 年 9 月</p><p class="profile-placeholder">照片和个人简介待补充。</p></div></div>
+<div class="member-profile-header"><div class="member-profile-avatar">ZZ</div><div><p class="person-role">即将入学硕士研究生</p><p class="person-meta">2026 年 9 月</p><p class="profile-placeholder">照片和个人简介待补充。</p></div></div>
 
 ## 个人简介
 

@@ -1,6 +1,6 @@
 # News
 
-Updates from the Smart & Resilient Structures Lab.
+Updates from the CAN Lab.
 
 <div class="lab-card-grid news-categories">
   <article class="lab-card"><span class="lab-card__number">LAB LIFE</span><h3>Inside the lab</h3><p>Team activities, lab visits, celebrations, field work, and behind-the-scenes moments.</p><p><a href="lab-life/">See lab life →</a></p></article>

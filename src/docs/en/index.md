@@ -1,10 +1,21 @@
+<div class="home-page-marker" aria-hidden="true"></div>
+
 <section class="lab-hero">
-  <p class="lab-hero__eyebrow">McMaster University · Civil Engineering</p>
-  <h1>Smart & Resilient Structures Lab</h1>
-  <p class="lab-hero__lead">We study sustainable and adaptive structural systems, bridge life-cycle performance, and emerging construction technologies.</p>
-  <div class="lab-actions">
-    <a class="lab-button lab-button--primary" href="research/">Explore our research</a>
-    <a class="lab-button" href="join-us/">Join the lab</a>
+  <div class="lab-hero__media"><img src="assets/images/home/home.jpg" alt="McMaster University Civil Engineering campus panorama"></div>
+  <div class="lab-hero__scrim" aria-hidden="true"></div>
+  <div class="lab-hero__inner">
+    <h1>CAN Lab</h1>
+    <div class="lab-hero__motto">
+      <p><span class="lab-hero__initial">C</span>reate infrastructure that endures.</p>
+      <p><span class="lab-hero__initial">A</span>dvance performance across the life cycle.</p>
+      <p><span class="lab-hero__initial">N</span>avigate toward a sustainable future.</p>
+    </div>
+    <p class="lab-hero__lead">Infrastructure Performance · Durability · Resilience · Sustainability</p>
+    <p class="lab-hero__affiliation">McMaster University · Civil Engineering</p>
+    <div class="lab-actions">
+      <a class="lab-button lab-button--primary" href="research/">Explore our research</a>
+      <a class="lab-button" href="join-us/">Join the lab</a>
+    </div>
   </div>
 </section>
 

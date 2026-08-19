@@ -1,6 +1,8 @@
 # Join us
 
-The lab is recruiting fully funded PhD and master's students. Entry terms listed for 2026 are January, May, and September.
+<div class="single-page-section-marker" aria-hidden="true"></div>
+
+The lab is recruiting fully funded PhD and master's students. Entry terms listed for 2027 are January, May, and September.
 
 ## Research fit
 
@@ -22,7 +24,7 @@ Email **Dr. Cancan Yang** at [yangc106@mcmaster.ca](mailto:yangc106@mcmaster.ca)
 3. a short description of your research background and interests; and
 4. your intended degree and preferred start term.
 
-Admission decisions and formal applications are administered through McMaster University. Review the [Civil Engineering graduate program](https://www.eng.mcmaster.ca/civil/degree-options/graduate-programs/) and [School of Graduate Studies](https://gs.mcmaster.ca/) before applying.
+Admission decisions and formal applications are administered through McMaster University. Review the [Civil Engineering degree options](https://www.eng.mcmaster.ca/civil/degree-options/) and [School of Graduate Studies](https://gs.mcmaster.ca/) before applying.
 
 ## Contact
 

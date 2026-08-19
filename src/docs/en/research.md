@@ -1,5 +1,7 @@
 # Research
 
+<div class="single-page-section-marker" aria-hidden="true"></div>
+
 Our research focuses on sustainable structural systems, bridges that can adapt to changing transportation and climate demands, life-cycle performance, and emerging construction technologies. The group combines structural engineering, **large-scale experiments**, advanced concrete materials, and computational analysis.
 
 ## Structural sustainability

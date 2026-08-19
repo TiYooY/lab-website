@@ -1,6 +1,6 @@
-# Smart & Resilient Structures Lab website
+# CAN Lab website
 
-This repository contains the bilingual website for the Smart & Resilient Structures Lab at McMaster University.
+This repository contains the bilingual website for the CAN Lab at McMaster University.
 
 - Public website: <https://tiyooy.github.io/lab-website/>
 - Content source: `src/docs/`

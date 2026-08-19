@@ -1,6 +1,6 @@
 # Tianyang Yin
 
-<div class="member-profile-header"><div class="member-profile-avatar">TY</div><div><p class="person-role">博士研究生</p><p class="person-meta">2025 年 9 月入学</p><p><a href="https://www.researchgate.net/profile/Tianyang-Yin-2">ResearchGate</a></p></div></div>
+<div class="member-profile-header"><img class="member-profile-photo" src="../../../../assets/images/team/tianyang-yin.jpg" alt="Tianyang Yin 的照片"><div><p class="person-role">博士研究生</p><p class="person-meta">2025 年 9 月入学</p><p><a href="https://www.researchgate.net/profile/Tianyang-Yin-2">ResearchGate</a></p></div></div>
 
 ## 个人简介
 
