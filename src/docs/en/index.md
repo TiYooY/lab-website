@@ -1,3 +1,5 @@
+<div class="home-page-marker" aria-hidden="true"></div>
+
 <section class="lab-hero">
   <div class="lab-hero__media"><img src="assets/images/home/home.jpg" alt="McMaster University Civil Engineering campus panorama"></div>
   <div class="lab-hero__scrim" aria-hidden="true"></div>

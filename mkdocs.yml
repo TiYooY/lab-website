@@ -14,6 +14,9 @@ docs_dir: src/docs
 theme:
   name: material
   language: en
+  font:
+    text: Manrope
+    code: Roboto Mono
   features:
     - navigation.tabs
     - navigation.sticky
@@ -43,6 +46,7 @@ extra_css:
 
 extra_javascript:
   - assets/js/home-hero.js
+  - assets/js/publications.js
   
 # Markdown扩展
 markdown_extensions:

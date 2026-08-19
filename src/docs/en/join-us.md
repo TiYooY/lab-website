@@ -1,6 +1,8 @@
 # Join us
 
-The lab is recruiting fully funded PhD and master's students. Entry terms listed for 2026 are January, May, and September.
+<div class="single-page-section-marker" aria-hidden="true"></div>
+
+The lab is recruiting fully funded PhD and master's students. Entry terms listed for 2027 are January, May, and September.
 
 ## Research fit
 
