@@ -1,11 +1,11 @@
 # Site information
-site_name: Smart & Resilient Structures Lab
+site_name: CAN Lab
 site_author: Dr. Cancan Yang
 site_description: Research on sustainable structures, adaptive bridge design, bridge life-cycle assessment, and 3D concrete printing at McMaster University.
 site_url: https://tiyooy.github.io/lab-website/
 repo_url: https://github.com/TiYooY/lab-website
 repo_name: TiYooY/lab-website
-copyright: Copyright &copy; Smart & Resilient Structures Lab, McMaster University
+copyright: Copyright &copy; CAN Lab, McMaster University
 
 # 文档源目录
 docs_dir: src/docs
@@ -40,6 +40,9 @@ theme:
 
 extra_css:
   - assets/css/custom.css
+
+extra_javascript:
+  - assets/js/home-hero.js
   
 # Markdown扩展
 markdown_extensions:
@@ -85,7 +88,7 @@ plugins:
             Research: 研究方向
             Team: 团队成员
             Current Members: 在读成员
-            Alumni: 毕业成员
+            Alumni: 往届成员
             Publications: 发表论文
             News: 新闻动态
             All Updates: 全部动态

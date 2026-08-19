@@ -1,6 +1,6 @@
 # 新闻动态
 
-智能与韧性结构实验室的最新动态。
+CAN Lab 的最新动态。
 
 <div class="lab-card-grid news-categories">
   <article class="lab-card"><span class="lab-card__number">LAB LIFE</span><h3>实验室日常</h3><p>团队活动、实验室参观、庆祝聚会、现场工作和幕后记录。</p><p><a href="lab-life/">走进实验室 →</a></p></article>

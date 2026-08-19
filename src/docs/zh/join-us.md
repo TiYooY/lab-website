@@ -22,7 +22,7 @@
 3. 研究背景与兴趣简介；
 4. 拟申请学位和期望入学时间。
 
-正式申请及录取由麦克马斯特大学统一管理。申请前请查阅[土木工程研究生项目](https://www.eng.mcmaster.ca/civil/degree-options/graduate-programs/)和[研究生院](https://gs.mcmaster.ca/)的最新要求。
+正式申请及录取由麦克马斯特大学统一管理。申请前请查阅[土木工程学位项目](https://www.eng.mcmaster.ca/civil/degree-options/)和[研究生院](https://gs.mcmaster.ca/)的最新要求。
 
 ## 联系信息
 

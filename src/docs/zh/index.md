@@ -1,10 +1,19 @@
 <section class="lab-hero">
-  <p class="lab-hero__eyebrow">麦克马斯特大学 · 土木工程系</p>
-  <h1>智能与韧性结构实验室</h1>
-  <p class="lab-hero__lead">围绕结构可持续性、桥梁适应性设计、全寿命性能与新兴建造技术开展研究。</p>
-  <div class="lab-actions">
-    <a class="lab-button lab-button--primary" href="research/">了解研究方向</a>
-    <a class="lab-button" href="join-us/">加入实验室</a>
+  <div class="lab-hero__media"><img src="../assets/images/home/home.jpg" alt="麦克马斯特大学土木工程校园全景"></div>
+  <div class="lab-hero__scrim" aria-hidden="true"></div>
+  <div class="lab-hero__inner">
+    <h1>CAN Lab</h1>
+    <div class="lab-hero__motto">
+      <p><span class="lab-hero__initial">C</span>创造经久耐用的基础设施。</p>
+      <p><span class="lab-hero__initial">A</span>推进全寿命周期性能。</p>
+      <p><span class="lab-hero__initial">N</span>引领可持续未来。</p>
+    </div>
+    <p class="lab-hero__lead">基础设施性能 · 耐久性 · 韧性 · 可持续性</p>
+    <p class="lab-hero__affiliation">麦克马斯特大学 · 土木工程系</p>
+    <div class="lab-actions">
+      <a class="lab-button lab-button--primary" href="research/">了解研究方向</a>
+      <a class="lab-button" href="join-us/">加入实验室</a>
+    </div>
   </div>
 </section>
 
