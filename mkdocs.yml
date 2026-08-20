@@ -3,8 +3,6 @@ site_name: CAN Lab
 site_author: Dr. Cancan Yang
 site_description: Research on sustainable structures, adaptive bridge design, bridge life-cycle assessment, and 3D concrete printing at McMaster University.
 site_url: https://tiyooy.github.io/lab-website/
-repo_url: https://github.com/TiYooY/lab-website
-repo_name: TiYooY/lab-website
 copyright: Copyright &copy; CAN Lab, McMaster University
 
 # 文档源目录

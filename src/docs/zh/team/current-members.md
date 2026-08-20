@@ -2,16 +2,18 @@
 
 ## 课题组负责人
 
-<article class="person-card person-card--lead">
+<div class="principal-investigator-card">
+<a class="person-card person-card--lead person-card--link" href="../members/cancan-yang/" aria-label="查看 Cancan Yang 教授的个人主页">
   <div class="person-avatar" aria-hidden="true">CY</div>
   <div class="person-card__body">
     <h3>Dr. Cancan Yang</h3>
     <p class="person-role">副教授 · 土木工程系</p>
     <p>杨教授主要研究结构可持续性、桥梁适应性设计、桥梁全寿命与风险评估，以及 3D 混凝土打印技术在结构构件中的应用。</p>
     <p>她在重庆大学获得学士学位，并在纽约州立大学布法罗分校获得硕士和博士学位。</p>
-    <p><a href="https://www.eng.mcmaster.ca/civil/faculty/dr-cancan-yang/">学校教师主页</a> · <a href="https://experts.mcmaster.ca/people/yangc106">McMaster Experts</a> · <a href="https://orcid.org/0000-0001-8596-2265">ORCID</a></p>
+    <p class="profile-hint">查看详情</p>
   </div>
-</article>
+</a>
+</div>
 
 ## 博士研究生
 

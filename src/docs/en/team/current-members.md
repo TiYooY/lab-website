@@ -2,16 +2,18 @@
 
 ## Principal investigator
 
-<article class="person-card person-card--lead">
+<div class="principal-investigator-card">
+<a class="person-card person-card--lead person-card--link" href="../members/cancan-yang/" aria-label="View Dr. Cancan Yang's profile">
   <div class="person-avatar" aria-hidden="true">CY</div>
   <div class="person-card__body">
     <h3>Dr. Cancan Yang</h3>
     <p class="person-role">Associate Professor · Civil Engineering</p>
     <p>Dr. Yang's research focuses on structural sustainability, adaptive bridge design, bridge life-cycle and risk assessment, and structural applications of 3D concrete printing.</p>
     <p>She received her B.Sc. from Chongqing University and her M.Sc. and Ph.D. from the University at Buffalo, State University of New York.</p>
-    <p><a href="https://www.eng.mcmaster.ca/civil/faculty/dr-cancan-yang/">McMaster faculty profile</a> · <a href="https://experts.mcmaster.ca/people/yangc106">McMaster Experts</a> · <a href="https://orcid.org/0000-0001-8596-2265">ORCID</a></p>
+    <p class="profile-hint">View profile</p>
   </div>
-</article>
+</a>
+</div>
 
 ## PhD students
 
